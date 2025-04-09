@@ -1,7 +1,3 @@
-/*
-* Student Name:G.G.A.Chamanthra.C.Gurulumulla
-* Student ID:10664500
-*/
 
 #include <iostream>
 #include "ImprovedDictionary.h"  //Include the header file for the ImprovedDictionary class.
